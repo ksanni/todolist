@@ -1,0 +1,7 @@
+body{
+    list-style-type: decimal;
+}
+.list p{
+    color: brown;
+    cursor: pointer;
+}
